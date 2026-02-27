@@ -68,5 +68,8 @@ public class Lsfr {
     }
 
 
+    // I Put comment on LFSR.java as signed that I add something for me to commit on git
+
+
 
 }
